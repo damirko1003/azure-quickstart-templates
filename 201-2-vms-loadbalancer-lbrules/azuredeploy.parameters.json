@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "storageAccountName": {
-      "value": "GEN-UNIQUE"
+      "value": "damirkosstorage100384"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "Student"
     },
     "adminPassword": {
-      "value": "Admin123_!"
+      "value": "Pa55w.rd1234"
     },
     "dnsNameforLBIP": {
       "value": "GEN-UNIQUE"
